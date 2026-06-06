@@ -44,7 +44,7 @@ const abhay = {
 - 🎓 **MCA** at Ravenshaw University, Cuttack — **8.75 CGPA**
 - 🏗️ Leading development of **Tasuke'26** — multi-domain SaaS with AI, CV pipeline & real-time systems
 - 🧠 Passionate about **System Design**, **Microservices** & **Immersive Web Technologies**
-- 📄 Published thesis on **Immersive Web Technologies** (peer-reviewed, submitted)
+- 📄 Thesis on **Immersive Web Technologies** (peer-reviewed, submitted)
 - 🏸 **3× University Badminton Champion** — inter-university level
 - 💬 Ask me about **MERN, Docker, Socket.IO, Redis, Three.js, OpenCV**
 - 📫 Reach me at **abhaykapoor.008@gmail.com**
@@ -125,7 +125,6 @@ Tournament hosting, team recruitment & skill development platform with immersive
 **Highlights:**
 - 🎨 Three.js 3D hero canvas with scroll-reveal
 - 📰 Full CMS for tutorial hub & community forums
-- 📄 Peer-reviewed research paper published
 - 🏆 Selected as BSc core thesis project
 
 `HTML5` `CSS3` `JavaScript` `Three.js` `Bootstrap`
@@ -196,7 +195,7 @@ Stack Overflow-style platform with role-based access.
 | 🏅 | Achievement |
 |---|---|
 | 🥇 | **3× University Badminton Champion** — Inter-university level |
-| 📄 | **Research Publication** — Immersive Web Technologies (peer-reviewed, submitted) |
+| 📄 | **Research ** — Immersive Web Technologies (peer-reviewed, submitted) |
 | 🎪 | **Tech Fest Coordinator** — Led 15-member team, ₹50K budget, 300+ participants |
 | 👨‍🏫 | **Student Mentor** — Mentored 10+ students in HTML, CSS & JavaScript |
 | 🏏 | **University Athlete** — Badminton & Cricket representative |
