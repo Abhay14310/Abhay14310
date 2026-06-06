@@ -1,10 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════
      ABHAY KAPOOR — GitHub Profile README
-     Repo: github.com/Abhay14310/Abhay14310
-     How to use:
-     1. Create a NEW repo named exactly "Abhay14310" on GitHub
-     2. Add this file as README.md
-     3. Push — it auto-appears on your profile!
+     Repo: Create a new repo named exactly "Abhay14310"
+     Paste this as README.md and commit!
 ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -17,7 +14,7 @@
 <!-- ── SOCIAL BADGES ── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhaykapoor2811-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaykapoor2811)
 [![Gmail](https://img.shields.io/badge/Gmail-abhaykapoor.008-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaykapoor.008@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F0FF?style=for-the-badge&logo=firefox&logoColor=white)](https://abhaykapoorportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F0FF?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhay14310-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay14310)
 
 <br/>
@@ -45,8 +42,8 @@ const abhay = {
 ```
 
 - 🎓 **MCA** at Ravenshaw University, Cuttack — **8.75 CGPA**
-- 🏗️ Leading development of **Tasuke'26** — multi-domain SaaS with AI, CV pipeline, and real-time systems
-- 🧠 Passionate about **System Design**, **Microservices**, and **Immersive Web Technologies**
+- 🏗️ Leading development of **Tasuke'26** — multi-domain SaaS with AI, CV pipeline & real-time systems
+- 🧠 Passionate about **System Design**, **Microservices** & **Immersive Web Technologies**
 - 📄 Published thesis on **Immersive Web Technologies** (peer-reviewed, submitted)
 - 🏸 **3× University Badminton Champion** — inter-university level
 - 💬 Ask me about **MERN, Docker, Socket.IO, Redis, Three.js, OpenCV**
@@ -105,7 +102,7 @@ const abhay = {
 
 A production-grade 9-container Docker microservices platform spanning 4 AI-powered domains:
 - 🏥 **MedFlow** — Real-time patient vitals + pose classification
-- 🛒 **SmartRetail** — Footfall analytics + POS streaming  
+- 🛒 **SmartRetail** — Footfall analytics + POS streaming
 - 🌿 **EcoTrack** — Fleet GPS + waste classification (TF.js)
 - 🔒 **SafeSight** — CV-based security surveillance
 
@@ -171,16 +168,6 @@ Stack Overflow-style platform with role-based access.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhay14310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -191,9 +178,22 @@ Stack Overflow-style platform with role-based access.
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements & Stats
 
-| 🏆 | Achievement |
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Total_Commits-177+-00f0ff?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current_Streak-Active-e8873a?style=for-the-badge&logo=github&logoColor=white)
+![CGPA](https://img.shields.io/badge/MCA_CGPA-8.75%2F10-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Badminton](https://img.shields.io/badge/Badminton-3×_Champion-FFD700?style=for-the-badge&logoColor=black)
+![Thesis](https://img.shields.io/badge/Research_Paper-Published-8b3ae8?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Team](https://img.shields.io/badge/Tech_Fest-300%2B_Participants-e83a3a?style=for-the-badge&logo=eventbrite&logoColor=white)
+
+</div>
+
+<br/>
+
+| 🏅 | Achievement |
 |---|---|
 | 🥇 | **3× University Badminton Champion** — Inter-university level |
 | 📄 | **Research Publication** — Immersive Web Technologies (peer-reviewed, submitted) |
@@ -201,6 +201,7 @@ Stack Overflow-style platform with role-based access.
 | 👨‍🏫 | **Student Mentor** — Mentored 10+ students in HTML, CSS & JavaScript |
 | 🏏 | **University Athlete** — Badminton & Cricket representative |
 | 🎓 | **8.75 CGPA** — MCA, Ravenshaw University |
+| 🤖 | **AI SaaS Lead** — 9-container Docker platform, sub-150ms CV inference |
 
 ---
 
@@ -227,19 +228,3 @@ Stack Overflow-style platform with role-based access.
 <div align="center">
 <sub>⭐ If you like my work, consider starring my repos — it motivates me to build more!</sub>
 </div>
-
-
-<!--
-**Abhay14310/Abhay14310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
