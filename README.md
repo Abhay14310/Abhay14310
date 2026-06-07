@@ -185,7 +185,7 @@ Stack Overflow-style platform with role-based access.
 ![Streak](https://img.shields.io/badge/Current_Streak-Active-e8873a?style=for-the-badge&logo=github&logoColor=white)
 ![CGPA](https://img.shields.io/badge/MCA_CGPA-8.75%2F10-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Badminton](https://img.shields.io/badge/Badminton-3×_Champion-FFD700?style=for-the-badge&logoColor=black)
-![Thesis](https://img.shields.io/badge/Research_Paper-Published-8b3ae8?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Thesis](https://img.shields.io/badge/Research_Paper-Submitted-8b3ae8?style=for-the-badge&logo=read-the-docs&logoColor=white)
 ![Team](https://img.shields.io/badge/Tech_Fest-300%2B_Participants-e83a3a?style=for-the-badge&logo=eventbrite&logoColor=white)
 
 </div>
